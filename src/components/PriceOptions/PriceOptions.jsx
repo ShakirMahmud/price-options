@@ -30,9 +30,6 @@ const PriceOptions = () => {
                 "Free parking",
                 "Advanced nutrition plan",
                 "Two guest passes per month",
-                "Access to spa and relaxation zone",
-                "Discount on in-house supplements and merchandise",
-                "Quarterly progress reports"
             ]
         },
         {
@@ -49,12 +46,6 @@ const PriceOptions = () => {
                 "Free parking and valet service",
                 "Customized nutrition and meal plan",
                 "Unlimited guest passes",
-                "Complimentary gym apparel",
-                "Monthly body composition analysis",
-                "Access to exclusive member-only workshops",
-                "Priority booking for events",
-                "Discounts on personal training packages and events",
-                "Dedicated recovery and massage area access"
             ]
         }
     ]
